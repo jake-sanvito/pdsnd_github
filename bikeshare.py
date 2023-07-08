@@ -45,7 +45,7 @@ def get_filters():
 
 
     while day.casefold() not in (name.casefold() for name in day_list):
-        answer_day = input(("Please enter a three letter abreviation for the day or All : "," ".join(day_list)," : "))
+        answer_day = input(("Please enter a three letter abreviation for the day or 'All' : "," ".join(day_list)," : "))
         
         if answer_day.casefold()  in (name.casefold() for name in day_list):
             day=answer_day.lower()
