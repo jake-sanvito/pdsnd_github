@@ -7,7 +7,7 @@ July 8th, 2023
 Force myself to practice SQL instead of just understanding the concepts.
 
 ### Description
-Unfortunatly this just follows the vanilla class format as I just dont have the time right now.
+Allows users to chose a bikeshare datafile from one of three cities and then apply statistics to users selected subsets such as month and day of week.
 
 ### Files used
 #for the program
