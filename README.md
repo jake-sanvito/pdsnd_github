@@ -1,4 +1,4 @@
-This project is for the final submission for hte Udacity course \Programming for Data Science with Python'
+This project is for the final submission for the Udacity course 'Programming for Data Science with Python'
 
 ### Date created
 July 8th, 2023
@@ -7,7 +7,7 @@ July 8th, 2023
 Force myself to practice SQL instead of just understanding the concepts.
 
 ### Description
-Unfortunatly this just follows the vanilla class format as I just dont have hte time right now.
+Unfortunatly this just follows the vanilla class format as I just dont have the time right now.
 
 ### Files used
 #for the program
