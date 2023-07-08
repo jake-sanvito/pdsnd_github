@@ -1,4 +1,4 @@
-This project is for the final submission for the Udacity course 'Programming for Data Science with Python'. This is the refactoring branch. It makes me want to weep.
+This project is for the final submission for the Udacity course 'Programming for Data Science with Python'. This is the refactoring branch. 
 
 ### Date created
 July 8th, 2023
