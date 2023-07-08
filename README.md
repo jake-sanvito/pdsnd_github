@@ -1,17 +1,24 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+This project is for the final submission for the Udacity course 'Programming for Data Science with Python'. This is the refactoring branch. It makes me want to weep.
 
 ### Date created
-Include the date you created this project and README file.
+July 8th, 2023
 
 ### Project Title
-Replace the Project Title
+Force myself to practice SQL instead of just understanding the concepts.
 
 ### Description
-Describe what your project is about and what it does
+Allows users to chose a bikeshare datafile from one of three cities and then apply statistics to users selected subsets such as month and day of week.
 
 ### Files used
-Include the files used
+#for the program
+bikeshare.py 
+#for the data
+chicago.csv
+new_york_city.csv
+washington.csv
+
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity for all the work in creating and letting me take this course.
 
